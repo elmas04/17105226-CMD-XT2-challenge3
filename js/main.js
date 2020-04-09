@@ -13,10 +13,10 @@ searchbox.addEventListener('keypress', setQuery);
 
 
 function setQuery(evt) {
-  // if (evt.keyCode == ) {
+  if (evt.keyCode == 69) {
     getResults(searchbox.value);
   }
-// }
+}
 
 
 
