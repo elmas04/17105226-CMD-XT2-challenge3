@@ -279,6 +279,7 @@ header input {
 
 .location {
     margin-left: 0;
+    color: black;
 }
 
 .midden {
@@ -287,17 +288,18 @@ header input {
 
 .location .city {
 	font-size: 20px;
-
-
+	color: black;
 }
 
 .location .date {
 	font-size: 10px;
+	color: black;
 }
 
 .current .temp {
  margin-top: -2%;
 	font-size: 60px;
+	color: black;
 
 
 }
@@ -307,6 +309,7 @@ header input {
 	margin-top: -2%;
     margin-left: 0;
     font-size: 20px;
+	color: black;
 
 
 	}
@@ -314,6 +317,7 @@ header input {
 .current .hi-low {
 	margin-left: 0;
 	font-size: 10px;
+	color: black;
 }
 
 
@@ -325,6 +329,7 @@ header input {
 header input {
     margin-top: 0%;
     font-size: 80%;
+	
 }
 
 .slogan{
