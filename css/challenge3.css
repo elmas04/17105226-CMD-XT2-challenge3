@@ -70,19 +70,19 @@ main {
 }
 
 .location .city {
-	color: black;
+	color: #363636;
 	font-size: 25px;
 	font-weight: 500;
 	margin-bottom: 5px;
 }
 
 .location .date {
-	color: black;
+	color: #363636;
 	font-size: 15px;
 }
 
 .current .temp {
-	color: black;
+	color: #363636;
 	font-size: 75px;
 	font-weight: 900;
 	margin: 5px 0px;
@@ -94,14 +94,14 @@ main {
 }
 
 .current .weather {
-color: black;
+color: #363636;
     font-size: 25px;
     font-weight: 500;
     margin-bottom: 5px;
 	}
 
 .current .hi-low {
-	color: black;
+	color: #363636;
 	font-size: 15px;
 }
 
